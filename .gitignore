@@ -35,6 +35,12 @@ node_modules
 #idea
 .idea
 
-#css & script
-public/css
-public/js
+# sass
+/.sass-cache
+/public/css
+
+# minified js
+/public/js/all.js
+
+# bower
+/bower_components
